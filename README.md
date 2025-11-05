@@ -1,10 +1,9 @@
 # 🛍️ ShopNest – Colorful E-commerce Frontend
 
-![ShopNest Banner](https://via.placeholder.com/1200x400/7c3aed/ffffff?text=ShopNest+-+Shop+with+Colors! "ShopNest Hero")
 
 > A **vibrant, responsive, and modern e-commerce frontend** built with **React.js**, **Tailwind CSS**, and **FakeStore API**. Features product browsing, search, filters, cart system with persistence, and smooth UI/UX.
 
-Live Demo: 
+Live Demo: [https://shopnes.netlify.app](https://shopnes.netlify.app) 
 
 ---
 
